@@ -1,4 +1,4 @@
-# SnapShot — URL → Image (Animated, Frontend Only)
+# SnapShot — URL → Image 
 
 Polished React + Vite app to capture website screenshots via ScreenshotMachine. Subtle animations, neat UX, and no AI-looking boilerplate.
 
